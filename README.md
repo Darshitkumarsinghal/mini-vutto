@@ -53,19 +53,20 @@ mini-vutto/
 │   │   ├── routes/
 │   │   │   ├── auth.js
 │   │   │   └── bikes.js
-│   │   ├── controllers/
-│   │   │   ├── authController.js
-│   │   │   └── bikeController.js
+│   │   ├── validators/
+│   │   │   ├── auth.js
+│   │   │   └── bike.js
 │   │   └── middleware/
-│   │       └── authMiddleware.js
+│   │       └── auth.js
 │   ├── server.js
 │   └── package.json
 │
 ├── frontend/
 │   ├── src/
 │   │   ├── pages/
-│   │   ├── components/
-│   │   ├── hooks/
+│   │   ├── lib/
+│   │   ├── main.jsx
+|   |   |--- styles.css
 │   │   └── App.jsx
 │   ├── index.html
 │   ├── vite.config.js
@@ -80,7 +81,7 @@ mini-vutto/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/mini-vutto.git
+git clone [https://github.com/your-username/mini-vutto.git](https://github.com/Darshitkumarsinghal/mini-vutto/)
 cd mini-vutto
 ```
 
