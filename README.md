@@ -81,7 +81,7 @@ mini-vutto/
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/your-username/mini-vutto.git](https://github.com/Darshitkumarsinghal/mini-vutto/)
+git clone https://github.com/Darshitkumarsinghal/mini-vutto
 cd mini-vutto
 ```
 
@@ -178,3 +178,4 @@ This ensures the app runs **locally for dev** and **scales on cloud platforms** 
 
 - **Backend**: [https://vutto-backend.onrender.com](https://vutto-backend.onrender.com)  
 - **Frontend**: [https://vutto-frontend-orpin.vercel.app](https://vutto-frontend-orpin.vercel.app) 
+- **Demo video**: [https://drive.google.com/file/d/1RvgtXEjJUNihVAkk45lPQ1Nw8Y3mMZ59/view?usp=sharing](https://drive.google.com/file/d/1RvgtXEjJUNihVAkk45lPQ1Nw8Y3mMZ59/view?usp=sharing)
